@@ -102,7 +102,5 @@ https://github.com/guojin-yan/YoloDeployCsharp.git
 
 - [在 Windows 上使用 OpenVINO™ C# API 部署 Yolov8-obb 实现任意方向的目标检测 | 开发者实战](https://mp.weixin.qq.com/s/Cj18ih8G1aw4lrOUqW-06w)
 
-&emsp;    最后如果各位开发者在使用中有任何问题，欢迎大家与我联系。
 
-<div align=center><img src="https://s2.loli.net/2024/01/29/VIPU1MSwjEh2QAY.png" width=800></div>
 
